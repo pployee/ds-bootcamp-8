@@ -17,3 +17,4 @@ I learn a lot of stuff related to data science skills. This boot camp has 10 spr
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on https://www.linkedin.com/in/paphangkarn-lertprasertkong-a4a168204/
